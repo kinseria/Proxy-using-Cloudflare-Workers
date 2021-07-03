@@ -65,3 +65,4 @@ const ORIGINS = {
 
 <br><br>
 
+>  This content has been shared under Educational Purposes Only. Developers not responsible for the actions performed by user
